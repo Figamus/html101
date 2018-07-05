@@ -2,3 +2,5 @@
 ## Simple intro to HTML
 
 ## Also uncludes basic CSS
+
+## Added images.
